@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-23T10:58:58.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="AMNimMwGcDNCQcU2xxPb" version="17.2.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-23T11:13:49.463Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="Hpio4Ujg0DgrGtRNtwYm" version="17.2.3" type="github" pages="7">
   <diagram id="ZMwJ6InSX6iu9KQXLuhk" name="Page-1">
     <mxGraphModel dx="868" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -859,6 +859,26 @@
         </mxCell>
         <mxCell id="RgL2AUX6oNBUGOiLqSU1-3" value="+id&#xa;+idPreinscription&#xa;+idFichier" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="RgL2AUX6oNBUGOiLqSU1-2">
           <mxGeometry y="30" width="240" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0BEFT0SY2432r5rPgR-H" name="Page-7">
+    <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Hb1SX3RsMDLDlH203EiN-1" value="Fichier" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="330" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb1SX3RsMDLDlH203EiN-2" value="+id&#xa;+nom&#xa;+date_creation=date system&#xa;&#xa;&#xa;+trouverParId(Long id)&#xa;+enregistrer(MultipartFile fichier_binaire)&#xa;+TrouverParNom(String nom):ResponseEntity&lt;InputSteam&gt;&#xa;+modifier(Fichier:fichier, MultipartFile:fichier_binaire)&#xa;+supprimer(String nom)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="Hb1SX3RsMDLDlH203EiN-1">
+          <mxGeometry y="30" width="330" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb1SX3RsMDLDlH203EiN-4" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.006;exitY=0.394;exitDx=0;exitDy=0;entryX=1;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="Hb1SX3RsMDLDlH203EiN-1" source="Hb1SX3RsMDLDlH203EiN-2" target="Hb1SX3RsMDLDlH203EiN-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="60" as="sourcePoint" />
+            <mxPoint x="160" y="110" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

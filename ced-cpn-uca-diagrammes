@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T15:42:50.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="fLMF11iD_FDlosVk-EOL" version="20.0.1" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2022-06-19T15:55:22.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="s4ip4a9B618pHWWYiBy_" version="20.0.1" type="github" pages="15">
   <diagram id="ZMwJ6InSX6iu9KQXLuhk" name="Page-1">
     <mxGraphModel dx="868" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1330,7 +1330,7 @@
         <mxCell id="xItewdJXaZFYn7xodVfE-35" value="else" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="600" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xItewdJXaZFYn7xodVfE-36" value="envoyer_email(non_accepte)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0.689;exitY=0.116;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="xItewdJXaZFYn7xodVfE-32" edge="1">
+        <mxCell id="xItewdJXaZFYn7xodVfE-36" value="envoyer_email(non_accepte, raison)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0.689;exitY=0.116;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="xItewdJXaZFYn7xodVfE-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="560" as="sourcePoint" />
             <mxPoint x="80" y="580" as="targetPoint" />

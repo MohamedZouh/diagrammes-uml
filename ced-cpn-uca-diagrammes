@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T15:43:50.164Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="8NPD0L6PRhN086TIi2YT" version="20.0.1" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-06-20T15:51:34.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="uqnx_lcXPU_Fo3jFy-PC" version="20.0.1" type="github" pages="16">
   <diagram id="ZMwJ6InSX6iu9KQXLuhk" name="Page-1">
     <mxGraphModel dx="868" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2023,7 +2023,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ezTFNw_P2pb3Lo9NSlDE" name="Page-16">
-    <mxGraphModel dx="755" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="755" dy="400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2094,7 +2094,7 @@
           <mxGeometry x="450" y="185" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G_EdC4ZMHb_IuVhZVPLE-10" value="0..*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="165" width="40" height="30" as="geometry" />
+          <mxGeometry x="500" y="170" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G_EdC4ZMHb_IuVhZVPLE-11" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="418" y="215" width="40" height="30" as="geometry" />
@@ -2175,7 +2175,7 @@
           <mxGeometry x="510" y="310" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G_EdC4ZMHb_IuVhZVPLE-32" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="200" width="20" height="30" as="geometry" />
+          <mxGeometry x="530" y="225" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G_EdC4ZMHb_IuVhZVPLE-33" value="Formation Interne" style="swimlane;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="240" y="290" width="106" height="90" as="geometry" />
@@ -2201,7 +2201,7 @@
             <mxPoint x="325" y="222.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G_EdC4ZMHb_IuVhZVPLE-40" value="créer&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22choisie%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22240%22%20y%3D%22235%22%20width%3D%2260%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G_EdC4ZMHb_IuVhZVPLE-40" value="gère" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G_EdC4ZMHb_IuVhZVPLE-41" value="0..*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T18:20:49.683Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="3VQNLRaiAVKQaw-NY0-d" version="20.0.2" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2022-06-26T18:22:24.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="9aYaWcnAsu2qa7-Lw7oZ" version="20.0.2" type="github" pages="19">
   <diagram id="ZMwJ6InSX6iu9KQXLuhk" name="Page-1">
     <mxGraphModel dx="868" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -311,7 +311,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sHRx4GtepKci_qcYVAHm" name="Page-2">
-    <mxGraphModel dx="868" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -662,7 +662,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="409KdL6JjGvHF-5AwftR" name="Page-3">
-    <mxGraphModel dx="868" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -801,17 +801,8 @@
             <mxPoint x="670" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nk2BgJISyhSixUW9MlKK-1" value="Récupération compte&amp;nbsp;&lt;br&gt;(mot de passe oubliée)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="640" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Nk2BgJISyhSixUW9MlKK-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="Nk2BgJISyhSixUW9MlKK-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="500" as="sourcePoint" />
-            <mxPoint x="440.1381696702049" y="690.1036272526537" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UFKSfj8hLDBGSK7YltJs-1" value="Activer son compte/ récupérer compte(mot de passe oubliée)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="740" width="170" height="90" as="geometry" />
+          <mxGeometry x="230" y="680" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UFKSfj8hLDBGSK7YltJs-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="UFKSfj8hLDBGSK7YltJs-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

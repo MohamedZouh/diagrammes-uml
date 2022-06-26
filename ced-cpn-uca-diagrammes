@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T18:22:24.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="9aYaWcnAsu2qa7-Lw7oZ" version="20.0.2" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2022-06-26T18:31:09.557Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="f18-ZWk_3RxC0P3izxz0" version="20.0.2" type="github" pages="19">
   <diagram id="ZMwJ6InSX6iu9KQXLuhk" name="Page-1">
     <mxGraphModel dx="868" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -814,7 +814,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jv7tJwDnSoptxvzjUvNc" name="Page-4">
-    <mxGraphModel dx="868" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -823,30 +823,6 @@
         </mxCell>
         <mxCell id="3FAJNpXZn50rzrHdUvtK-2" value="Valider une préinscription" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="450" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="LEaJKxE6NpLbtVgo9ogT-1" value="Valider la préinscription d&#39;un professeur" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="350" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="LEaJKxE6NpLbtVgo9ogT-2" value="Valider la préinscription d&#39;un doctorant" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="190" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="LEaJKxE6NpLbtVgo9ogT-3" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="LEaJKxE6NpLbtVgo9ogT-1" target="3FAJNpXZn50rzrHdUvtK-2" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="330" y="250" as="sourcePoint" />
-            <mxPoint x="520" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LEaJKxE6NpLbtVgo9ogT-4" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" source="LEaJKxE6NpLbtVgo9ogT-2" target="3FAJNpXZn50rzrHdUvtK-2" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="647.5735931288073" y="271.7157287525382" as="sourcePoint" />
-            <mxPoint x="580" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LEaJKxE6NpLbtVgo9ogT-5" value="&amp;lt;&amp;lt;generalize&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="490" y="260" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LEaJKxE6NpLbtVgo9ogT-6" value="&amp;lt;&amp;lt;generalize&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="590" y="330" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LEaJKxE6NpLbtVgo9ogT-7" value="S&#39;authentifier" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="140" width="120" height="80" as="geometry" />
@@ -948,7 +924,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Y7kns-51frXDQNe0a6Jd" name="Page-5">
-    <mxGraphModel dx="868" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2758,7 +2734,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1kYLWcNSfupTsXSuoi68" name="Page-19">
-    <mxGraphModel dx="868" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
